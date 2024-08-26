@@ -3,6 +3,8 @@
         "*.embeddedhtml": "html",
         "random": "cpp",
         "iostream": "cpp",
-        "ostream": "cpp"
-    }
+        "ostream": "cpp",
+        "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }
